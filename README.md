@@ -1,8 +1,24 @@
-# React + Vite
+# The Darkness Devil Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+**"The Darkness Devil"** is a web-based 3D modeling and animation project inspired by the chilling aesthetics of the anime *Chainsaw Man*. Developed by me, this project delves into the eerie and terrifying world of the Darkness Devil.
 
-Currently, two official plugins are available:
+## Description
+Drawing inspiration from the introduction of the Darkness Devil in *Chainsaw Man*, this project aims to recreate the spine-chilling atmosphere of that scene. Meticulous attention to detail is evident in the modeling, lighting, and shadows, creating an immersive experience that instills fear and unease in the viewer. The project includes a haunting soundtrack and spotlight effects, enhancing the sense of impending doom.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **Front End:** React for web application development
+- **3D Modeling and Animation:** Blender
+- **Web Rendering:** Three.js & React-Three-Fiber
+- **Audio:** Royalty-free spotlight sound from [Pixabay](https://pixabay.com/sound-effects/spotlight-stereo-91360/) and spooky music from [SoundCloud](https://soundcloud.com/myuu/nebula)
+
+
+## Acknowledgments
+I express my gratitude to Tatsuki Fujimoto, the author of *Chainsaw Man*, for the inspiration. The project is a creative homage to the captivating world and characters created by Fujimoto.
+
+## Viewing the Project
+To experience **"The Darkness Devil,"** click [here](http://darkness-devil.web.app/).
+
+## Contact
+Aritro Ghosh  
+National Institute of Technology Calicut, India  
